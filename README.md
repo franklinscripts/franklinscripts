@@ -1,3 +1,12 @@
+# Developer
+
+##### . 👋 Hi, I’m Franklin Okika
+##### . 👀 Lover of Open Source contribution and teammates
+##### . 🌱 I’m currently into block chain, with the use of Meta mask, Web3, and solidity
+##### . 📫 I'm currently working on React Native as a side Booster
+##### . 🌱 Ask me anything about coding with Javascript
+##### . 💞️ I’m looking to collaborate on any project using NodeJS, Javascript, React, and block chain
+##### . 📫 How to reach me devfranklin5@gmail.com
 
 I’m currently exploring new technologies, working on side projects. Aside from this, I spend time doing fun kinds of stuff like listening to music or podcast, playing indoor games, watching random online videos, visiting new places, or learning and solving for some Katas!
 
@@ -31,4 +40,3 @@ style="vertical-align:top; margin: 4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" alt="cpp" height="40"
 style="vertical-align:top; margin: 4px">
   </p>
---->
