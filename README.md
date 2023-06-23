@@ -1,6 +1,5 @@
-# Developer
+<h1 style="font-size: 40px; display: flex; align-items: center; justify-content: center;">👋 Hi, I’m Franklin Okika</h1>
 
-##### . 👋 Hi, I’m Franklin Okika
 ##### . 👀 Lover of Open Source contribution and teammates
 ##### . 🌱 I’m currently into block chain, with the use of Meta mask, Web3, and solidity
 ##### . 📫 I'm currently working on React Native as a side Booster
@@ -11,7 +10,7 @@
 I’m currently exploring new technologies, working on side projects. Aside from this, I spend time doing fun kinds of stuff like listening to music or podcast, playing indoor games, watching random online videos, visiting new places, or learning and solving for some Katas!
 
 
- <img src="https://user-images.githubusercontent.com/86675223/212636170-e68f6534-0e40-4c7a-aab4-6957fcd45a18.png" alt="VS Code" height="400" width="1000" style="vertical-align:top; margin:4px">
+ <img src="https://cdn.shopify.com/s/files/1/0306/6419/6141/articles/coding_languages.png?v=1619126283" alt="VS Code" height="400" width="1000" style="vertical-align:top; margin:4px">
 
 
 <p style="text-align:center;">
